@@ -12,3 +12,4 @@ You can reach me via [SimpleX](https://smp15.simplex.im/a#jfV2O3tFIEht7sIXR2tHe5
 If you'd like to support my work, cryptocurrency donations are welcome:
 
 BTC: `bc1qwdha4phs3y2fcwf875h06en6rzcd4gsq8kpcjr`
+USDT (TRC-20): `TWZDwEk9QHRZkg8mVmAGeF6LQPwfh2JmKK`
