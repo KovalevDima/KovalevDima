@@ -6,8 +6,9 @@ Author of:
   - [invoker](https://github.com/boot-directory/invoker): PoC implementation of the Steam client protocol and a Dota 2 demo parser in Haskell
 
 Some of my opensource contributions:
-- wide-word: [Int256](https://github.com/erikd/wide-word/commit/a985671df376ef71e69e69e7acc29ee65597b5d2)
-- tls: [benchmark](https://github.com/haskell-tls/hs-tls/pull/509)
+- wide-word: [introduced Int256 support](https://github.com/erikd/wide-word/commit/a985671df376ef71e69e69e7acc29ee65597b5d2)
+- tls: [restored the benchmark](https://github.com/haskell-tls/hs-tls/pull/509)
+- hs-bindgen: [a few bug reports](github.com/well-typed/hs-bindgen/issues?q=is%3Aissue+state%3Aclosed+author%3AKovalevDima) and [minor fixes](https://github.com/well-typed/hs-bindgen/commits/main/?author=KovalevDima)
 
 You can text me with [SimpleX](https://smp15.simplex.im/a#jfV2O3tFIEht7sIXR2tHe5gemIFm1Voa9o9JbNFlyI4), [Telegram](https://t.me/onarainydayillwinanyway)
 
