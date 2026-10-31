@@ -1,8 +1,9 @@
 Haskell developer, ClickHouse DBMS administrator, NixOS enthusiast
 
 Author of:
-  - [ClickHaskell](https://github.com/KovalevDima/ClickHaskell) — a Haskell driver for ClickHouse via the Native protocol
-  - [invoker](https://github.com/boot-directory/invoker) - a Haskell implementation of steam client protocol and dota 2 demo parser
+  - [ClickHaskell](https://github.com/KovalevDima/ClickHaskell): Haskell driver for ClickHouse via the Native protocol
+  - [dpdk-hs](https://github.com/boot-directory/dpdk-hs): PoC packet forwarder and DPDK bindings
+  - [invoker](https://github.com/boot-directory/invoker): PoC implementation of the Steam client protocol and a Dota 2 demo parser in Haskell
 
 Some of my opensource contributions:
 - wide-word: [Int256](https://github.com/erikd/wide-word/commit/a985671df376ef71e69e69e7acc29ee65597b5d2)
