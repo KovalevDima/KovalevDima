@@ -1,4 +1,4 @@
-Haskell developer, ClickHouse DBMS administrator, NixOS enthusiast
+Haskell developer, ClickHouse and Postgres DBA
 
 Author of:
   - [ClickHaskell](https://github.com/KovalevDima/ClickHaskell): Haskell driver for ClickHouse via the Native protocol
